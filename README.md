@@ -1,4 +1,4 @@
-![](https://github.com/IsmaDias/EletronBlocks/blob/master/favicon.ico)
+![](https://github.com/IsmaDias/EletronBlocks/blob/master/favicon(3).ico)
 
 ElétronBlocks é a versão da www.eletron.co para programar, baseada no projeto https://snap4arduino.org
 
