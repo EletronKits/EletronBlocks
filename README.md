@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/IsmaDias/EletronBlocks/logo-eletron-final-final.jpg)
+![alt tag](https://github.com/IsmaDias/EletronBlocks/logo-eletron-final-final.jpg)
 
 ElétronBlocks é a versão da www.eletron.co para programar, baseada no projeto https://snap4arduino.org
 
