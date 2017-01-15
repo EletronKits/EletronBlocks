@@ -1,6 +1,4 @@
-[![Snap4Arduino Logo](http://snap4arduino.org/img/logo.png)](http://snap4arduino.org)
-
-Snap4Arduino binds Snap! and Arduino together and is available in several flavors:
+ElétronBlocks é a versão da www.eletron.co para programar, baseada no projeto https://snap4arduino.org
 
 * A desktop application for GNU/Linux, MacOSX and MS Windows.
 * A Chrome App for Chromebooks and any other device that can run the Chromium browser or Google Chrome.
@@ -9,29 +7,10 @@ Snap4Arduino binds Snap! and Arduino together and is available in several flavor
 * A websockets-powered version for Linino boards.
 * A mobile app for Android. :boom: **EXPERIMENTAL!** BARELY USABLE! :boom:
 
-Please check out our official website for further info:
-
-[snap4arduino.org](http://snap4arduino.org)
-
 Downloads
 =========
-
-You can get the latest pre-built versions for all platforms at:
-
+Versao mais atual do Snap4Arduino
 [snap4arduino.org/#download](http://snap4arduino.org/#download)
-
-Acknowledgements
-================
-
-Of course, this project wouldn't exist without:
-
-* [Snap!](http://snap.berkeley.edu)
-* [Arduino](http://arduino.org)
-* [nwjs.io](http://nwjs.io)
-
-To build installers for Microsoft Windows OSes, we are making use of [Inno Setup](http://www.jrsoftware.org/isinfo.php), ran headless under [Wine](http://winehq.org).
-
-The mobile version is powered by [Cordova](https://cordova.apache.org/).
 
 Developers, read this
 =====================
